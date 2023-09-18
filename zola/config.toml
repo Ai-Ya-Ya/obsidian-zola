@@ -11,6 +11,7 @@ taxonomies = []
 
 [slugify]
 paths = "off"
+paths_keep_dates = true
 
 [search]
 include_content = true
